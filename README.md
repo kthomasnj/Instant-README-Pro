@@ -2,12 +2,12 @@
 
 ## Description
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste nemo commodi molestiae nihil. Veritatis sint libero magni sequi, facilis distinctio assumenda natus iusto inventore dolorem! Esse amet, rerum omnis, nobis molestiae earum porro delectus, accusantium saepe nemo quidem. Possimus, cum?:
+This project was created to produce a quality README file instantly:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- My motivation is to create projects that prove my talents to employers.
+- This project was created to easily create README files for remaining projects.
+- You will now be able to create a quality README.md file quickly.
+- I learned how to create a file on my Windows computer through programming.
 
 <br>
 
@@ -29,19 +29,17 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste nemo commodi mole
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This project was created using JavaScript code to run a node.js using the inquirer package.
 
 <br>
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Open the index.js file in terminal or bash to run the program.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Run the program by changing the directory to the program files for this program. Then typing node index.js. Answer the questions presented to create your personalized README file.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+[![How-To Video](./assets/images/Program_Image.PNG)](https://drive.google.com/file/d/1xzbIA96u8Psp1NcFF0RYicdpz-aTQhRH/view?usp=sharing))
 
 <br>
 
